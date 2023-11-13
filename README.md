@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanket
 - 👀 I’m interested in building up my knowledge of programming
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Django
 - 📫 How to reach me- sanketiyer03@gmail.com
 
 <!---
